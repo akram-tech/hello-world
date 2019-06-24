@@ -1,2 +1,2 @@
 # hello-world
-techi stuff innit
+tech stuff innit
