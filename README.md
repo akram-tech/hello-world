@@ -1,2 +1,2 @@
 # hello-world
-An organized mess
+techi stuff innit
